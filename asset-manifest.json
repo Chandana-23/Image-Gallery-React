@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://chandana-23.github.io/csb-gglki/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://chandana-23.github.io/csb-gglki/static/js/main.4d8fe323.chunk.js",
+    "main.js.map": "https://chandana-23.github.io/csb-gglki/static/js/main.4d8fe323.chunk.js.map",
+    "runtime-main.js": "https://chandana-23.github.io/csb-gglki/static/js/runtime-main.00041cc1.js",
+    "runtime-main.js.map": "https://chandana-23.github.io/csb-gglki/static/js/runtime-main.00041cc1.js.map",
+    "static/js/2.3291bce8.chunk.js": "https://chandana-23.github.io/csb-gglki/static/js/2.3291bce8.chunk.js",
+    "static/js/2.3291bce8.chunk.js.map": "https://chandana-23.github.io/csb-gglki/static/js/2.3291bce8.chunk.js.map",
+    "index.html": "https://chandana-23.github.io/csb-gglki/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://chandana-23.github.io/csb-gglki/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.3291bce8.chunk.js.LICENSE.txt": "https://chandana-23.github.io/csb-gglki/static/js/2.3291bce8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00041cc1.js",
+    "static/js/2.3291bce8.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.4d8fe323.chunk.js"
+  ]
+}
